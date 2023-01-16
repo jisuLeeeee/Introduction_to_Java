@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b85d2293-b176-4851-a15a-6340eacfed6b" name="Changes" comment="12일차 강의코드 및 내용정리">
-      <change afterPath="$PROJECT_DIR$/src/day14/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/BuxExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/README.md" afterDir="false" />
+    <list default="true" id="b85d2293-b176-4851-a15a-6340eacfed6b" name="Changes" comment="14일차 강의코드 및 내용정리">
+      <change afterPath="$PROJECT_DIR$/src/day15/LedExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/LedTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/TV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673350524198</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="14일차 강의코드 및 내용정리">
+      <created>1673507379112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673507379112</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +98,7 @@
     <MESSAGE value="9일차 자바입문강의 내용 및 코드 정리" />
     <MESSAGE value="11일차 강의코드 및 내용정리" />
     <MESSAGE value="12일차 강의코드 및 내용정리" />
-    <option name="LAST_COMMIT_MESSAGE" value="12일차 강의코드 및 내용정리" />
+    <MESSAGE value="14일차 강의코드 및 내용정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="14일차 강의코드 및 내용정리" />
   </component>
 </project>
